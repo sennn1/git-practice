@@ -1,4 +1,4 @@
--[] create a new folder
--[] create a file name named .todo.txt
--[] add a few todo items in todo.txt
+-[x] create a new folder
+-[x] create a file name named .todo.txt
+-[x] add a few todo items in todo.txt
 -[] mark some items in todo.txt as done
